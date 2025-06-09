@@ -66,7 +66,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone 
+git clone https://github.com/Tanay-commits/Brainwave.git
 cd brainwave
 ```
 
@@ -89,5 +89,5 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 ## <a name="links">🔗 Links</a>
 
-- [Live Website](https://jsm-brainwave.com/)
+- [Live Website](https://brainwave-one-pied.vercel.app/)
 
